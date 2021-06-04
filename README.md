@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am new to github. All my projects will be shown here.
 =======
 First
@@ -19,3 +20,6 @@ Five
 =======
 Five
 >>>>>>> parent of 15aaf16 (New name for description)
+=======
+I am new to github. All my projects will be shown here.
+>>>>>>> parent of bb367fe (Вернул обратно для проверки)
