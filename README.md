@@ -1,6 +1,2 @@
 # MyFirstProject
-First
-Second
-Three
-Four
-Five
+I am new to github. All my projects will be shown here.
